@@ -1,0 +1,88 @@
+/* 
+  Localizable.strings
+  Nyxian
+
+  Created by AI Assistant on 2025.
+*/
+
+// 主界面
+"Projects" = "项目";
+"Create Project" = "创建项目";
+"Import" = "导入";
+"Name" = "名称";
+"Bundle Identifier" = "包标识符";
+"Cancel" = "取消";
+"Create" = "创建";
+"Close" = "关闭";
+
+// 项目操作
+"Export" = "导出";
+"Remove" = "删除";
+"Settings" = "设置";
+"Run" = "运行";
+"Issue Navigator" = "问题导航器";
+"Project" = "项目";
+
+// 文件操作
+"File" = "文件";
+"Folder" = "文件夹";
+"New" = "新建";
+"Paste" = "粘贴";
+"Copy" = "复制";
+"Move" = "移动";
+"Rename" = "重命名";
+"Share" = "分享";
+"Remove" = "删除";
+
+// 创建文件/文件夹
+"Create File" = "创建文件";
+"Create Folder" = "创建文件夹";
+"Filename" = "文件名";
+
+// 警告和错误
+"Warning" = "警告";
+"Error" = "错误";
+"Overwrite" = "覆盖";
+"Submit" = "提交";
+
+// 设置界面
+"Settings" = "设置";
+"Toolchain" = "工具链";
+"Application Management" = "应用管理";
+"Process Management" = "进程管理";
+"Customization" = "自定义";
+"Miscellaneous" = "其他";
+"Credits" = "致谢";
+"Info" = "信息";
+
+// 其他设置
+"Import Certificate" = "导入证书";
+"Reset All" = "重置全部";
+"All projects and preferences will be wiped! Are you sure you wanna proceed?" = "所有项目和偏好设置将被清除！您确定要继续吗？";
+"Proceed" = "继续";
+"Skip Certificate Check" = "跳过证书检测";
+
+// 应用信息
+"Version" = "版本";
+"Stage" = "阶段";
+
+// 文件类型
+"File with the name \"%@\" already exists. Do you want to overwrite it?" = "名为 \"%@\" 的文件已存在。您想要覆盖它吗？";
+"Folder with the name \"%@\" already exists. Folders cannot be removed!" = "名为 \"%@\" 的文件夹已存在。文件夹无法删除！";
+"Folder with the name \"%@\" already exists. Folder cannot be overwritten" = "名为 \"%@\" 的文件夹已存在。文件夹无法覆盖";
+"Rename %@" = "重命名 %@";
+
+// 语言设置
+"Language" = "语言";
+"English" = "English";
+"简体中文" = "简体中文";
+"Select Language" = "选择语言";
+
+// IPA 生成和 Filza 集成
+"IPA Generated" = "IPA 已生成";
+"IPA file has been generated at:\n%@\n\nWould you like to open it with Filza?" = "IPA 文件已生成在:\n%@\n\n您想要用 Filza 打开它吗？";
+"Copy Path" = "复制路径";
+"Open with Filza" = "用 Filza 打开";
+"Filza Not Found" = "未找到 Filza";
+"Filza is not installed. Please install Filza from Cydia or Sileo to open IPA files." = "Filza 未安装。请从 Cydia 或 Sileo 安装 Filza 来打开 IPA 文件。";
+"OK" = "确定";

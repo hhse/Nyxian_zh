@@ -1,0 +1,78 @@
+/* 
+  Localizable.strings
+  Nyxian
+
+  Created by AI Assistant on 2025.
+*/
+
+// Main Interface
+"Projects" = "Projects";
+"Create Project" = "Create Project";
+"Import" = "Import";
+"Name" = "Name";
+"Bundle Identifier" = "Bundle Identifier";
+"Cancel" = "Cancel";
+"Create" = "Create";
+"Close" = "Close";
+
+// Project Operations
+"Export" = "Export";
+"Remove" = "Remove";
+"Settings" = "Settings";
+"Run" = "Run";
+"Issue Navigator" = "Issue Navigator";
+"Project" = "Project";
+
+// File Operations
+"File" = "File";
+"Folder" = "Folder";
+"New" = "New";
+"Paste" = "Paste";
+"Copy" = "Copy";
+"Move" = "Move";
+"Rename" = "Rename";
+"Share" = "Share";
+"Remove" = "Remove";
+
+// Create File/Folder
+"Create File" = "Create File";
+"Create Folder" = "Create Folder";
+"Filename" = "Filename";
+
+// Warnings and Errors
+"Warning" = "Warning";
+"Error" = "Error";
+"Overwrite" = "Overwrite";
+"Submit" = "Submit";
+
+// Settings Interface
+"Settings" = "Settings";
+"Toolchain" = "Toolchain";
+"Application Management" = "Application Management";
+"Process Management" = "Process Management";
+"Customization" = "Customization";
+"Miscellaneous" = "Miscellaneous";
+"Credits" = "Credits";
+"Info" = "Info";
+
+// Other Settings
+"Import Certificate" = "Import Certificate";
+"Reset All" = "Reset All";
+"All projects and preferences will be wiped! Are you sure you wanna proceed?" = "All projects and preferences will be wiped! Are you sure you wanna proceed?";
+"Proceed" = "Proceed";
+
+// App Info
+"Version" = "Version";
+"Stage" = "Stage";
+
+// File Types
+"File with the name \"%@\" already exists. Do you want to overwrite it?" = "File with the name \"%@\" already exists. Do you want to overwrite it?";
+"Folder with the name \"%@\" already exists. Folders cannot be removed!" = "Folder with the name \"%@\" already exists. Folders cannot be removed!";
+"Folder with the name \"%@\" already exists. Folder cannot be overwritten" = "Folder with the name \"%@\" already exists. Folder cannot be overwritten";
+"Rename %@" = "Rename %@";
+
+// Language Settings
+"Language" = "Language";
+"English" = "English";
+"简体中文" = "简体中文";
+"Select Language" = "Select Language";
