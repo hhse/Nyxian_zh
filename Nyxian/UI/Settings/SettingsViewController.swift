@@ -40,7 +40,7 @@ class SettingsViewController: UIThemedTableViewController {
         
         // 创建可点击的GitHub链接
         let githubButton = UIButton(type: .system)
-        githubButton.setTitle("GitHub: https://github.com/hhse/Nyxian_zh00", for: .normal)
+        githubButton.setTitle("GitHub: https://github.com/hhse/Nyxian_zh", for: .normal)
         githubButton.titleLabel?.font = UIFont.systemFont(ofSize: 12)
         githubButton.setTitleColor(UIColor.systemBlue, for: .normal)
         githubButton.titleLabel?.textAlignment = .center
